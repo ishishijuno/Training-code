@@ -8,4 +8,4 @@
 プロフィールのリンクを押すと自身の情報が閲覧することができます。
 
 ##Demo 
-![circleanimationmuvie](https://user-images.githubusercontent.com/35391662/49744543-598bad00-fce0-11e8-807a-ceac722a4362.gif)
+![circleanimationmuvie](https://user-images.githubusercontent.com/35391662/49745633-c4d67e80-fce2-11e8-92cd-6729b76d3f79.gif)
