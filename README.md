@@ -7,4 +7,6 @@
 下の画面はリンクで履歴書と職務経歴書が閲覧できます。
 プロフィールのリンクを押すと自身の情報が閲覧することができます。
 
-##Demo
+##Demo 
+https://github.com/ishishijuno/Training-code/issues/1#issue-389369421
+
