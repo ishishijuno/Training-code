@@ -8,5 +8,4 @@
 プロフィールのリンクを押すと自身の情報が閲覧することができます。
 
 ##Demo 
-https://github.com/ishishijuno/Training-code/issues/1#issue-389369421
-
+![circleanimationmuvie](https://user-images.githubusercontent.com/35391662/49744543-598bad00-fce0-11e8-807a-ceac722a4362.gif)
